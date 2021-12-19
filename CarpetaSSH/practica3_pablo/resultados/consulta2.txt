@@ -1,0 +1,1 @@
+MANAUS;2000			Presión media 	1003,83(mb)		Radiacion solar media 	1529,58(KJ/m2)		Temperatura media 	26,73ºC		Humedad media 	81,04%		Velocidad viento media 	1,1 m/s

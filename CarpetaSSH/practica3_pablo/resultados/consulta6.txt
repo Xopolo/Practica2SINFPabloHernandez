@@ -1,0 +1,3 @@
+	
+Precipitacion MAX:	Valor:	97.2 mm		Fecha:	2016-11-17		Region:	N		Estacion:	ARIQUEMES		
+Precipitacion MIN:	Valor:	0.0 mm		Fecha:	2021-04-30		Region:	N		Estacion:	MARABA

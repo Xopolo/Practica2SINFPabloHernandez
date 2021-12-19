@@ -1,0 +1,1 @@
+N	Temperatura max:	42,2ºC		Temperatura min:	-9ºC		Humedad max:	100%		Humedad min:	7%		Presion max:	1050(mb)		Presion min:	852,1(mb)		Radiacion max:	45305(KJ/m2)		Radiacion min:	0(KJ/m2)

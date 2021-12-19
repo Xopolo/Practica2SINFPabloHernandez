@@ -1,0 +1,8 @@
+2000-05	Velocidad del viento media	0,94 m/s
+2000-08	Velocidad del viento media	1,06 m/s
+2000-11	Velocidad del viento media	1,24 m/s
+2000-06	Velocidad del viento media	1,03 m/s
+2000-09	Velocidad del viento media	1,17 m/s
+2000-12	Velocidad del viento media	1,1 m/s
+2000-07	Velocidad del viento media	1,12 m/s
+2000-10	Velocidad del viento media	1,12 m/s
